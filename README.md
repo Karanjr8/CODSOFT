@@ -16,6 +16,9 @@ A console-based number guessing game written in **C++**, developed as part of th
    g++ number_guessing_game.cpp -o game
 
 
+
+
+
 #2. 🔢 C++ Calculator Program
 
 A simple command-line calculator written in C++ that allows users to perform **continuous arithmetic operations**. After each calculation, the result is used as the starting point for the next operation, enabling chained calculations until the user chooses to exit.
